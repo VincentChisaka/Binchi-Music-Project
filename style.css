@@ -1,0 +1,62 @@
+
+ /* Landing Page */
+.header-wrapper{
+
+position: absolute;
+width: 1434px;
+height: 290px;
+left: 0px;
+top: 0px;
+
+background: #6E82EF;
+}
+
+/* BINCHI MUSIC */
+#header-banner{
+    
+
+
+position: absolute;
+width: 364px;
+height: 58px;
+left: 843px;
+top: 116px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+
+/* Sign Btn */
+#Sign-in{
+
+position: absolute;
+width: 97.59px;
+height: 41px;
+left: 1195px;
+top: 229px;
+
+background: #BC1818;
+border-radius: 15px;
+}
+
+/* login Btn */
+#button{
+
+    position: absolute;
+    width: 97.59px;
+    height: 41px;
+    left: 1307.53px;
+    top: 229px;
+    
+    background: #D9D9D9;
+    border-radius: 15px;
+}
